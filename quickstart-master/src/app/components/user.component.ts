@@ -8,6 +8,8 @@ import { PathLocationStrategy } from '@angular/common';
   <h1>Hello {{name}}</h1>
   {{email}}<br>
   <br>
+  <br>
+  <br>
   {{phone}}<br>
   <br>
   <button (click)="onClickMe()">Click me!</button>
